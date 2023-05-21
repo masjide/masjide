@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Atina Masjide
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning TypeScript, Go
